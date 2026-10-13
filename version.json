@@ -1,23 +1,20 @@
 {
     "produto":  "IfPonto",
-    "versao":  "0.6.7.0",
+    "versao":  "0.6.7.1",
     "data":  "2026-10-13",
-    "titulo":  "IfPonto 0.6.7.0",
-    "download":  "https://github.com/ifsales/IFPonto/releases/download/v0.6.7.0/IfPonto_Setup_0.6.7.0.exe",
-    "arquivo":  "IfPonto_Setup_0.6.7.0.exe",
-    "sha256":  "5564a85e2fee07acf4300e31f824442e34d7d9caf124de654677ad5a47fcee57",
+    "titulo":  "IfPonto 0.6.7.1",
+    "download":  "https://github.com/ifsales/IFPonto/releases/download/v0.6.7.1/IfPonto_Setup_0.6.7.1.exe",
+    "arquivo":  "IfPonto_Setup_0.6.7.1.exe",
+    "sha256":  "0d5f2aab426dcc5fbbe376d0ea6fe8e68cb0cff47681d112b66aae6efe6f5ec8",
     "portable":  {
-                     "arquivo":  "IfPonto_Portable_0.6.7.0.zip",
-                     "download":  "https://github.com/ifsales/IFPonto/releases/download/v0.6.7.0/IfPonto_Portable_0.6.7.0.zip",
-                     "sha256":  "aefc66c5ab1869d57f2322ac624e895dd00c143b3374b953f747835317ffe900"
+                     "arquivo":  "IfPonto_Portable_0.6.7.1.zip",
+                     "download":  "https://github.com/ifsales/IFPonto/releases/download/v0.6.7.1/IfPonto_Portable_0.6.7.1.zip",
+                     "sha256":  "e366f45ab7b862e63d0926fb18b123ececeda368e0daf84fc9cab9fa85c29a24"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "IfPonto Web reativado para tratamento, pré-fechamento rápido e desktop fecha sem banco",
-                      "IfPonto Web (operador) — https://\u003cservidor\u003e/operador/",
-                      "API (Portal e IfPonto Web)",
-                      "Pré-fechamento (Desktop e Web)",
-                      "IfPonto Desktop",
-                      "Banco"
+                      "IfPonto Web grava no servidor",
+                      "IfPonto Web: \"O banco de dados recusou a operação\" no servidor",
+                      "Inclui as novidades da 0.6.7.0"
                   ]
 }
