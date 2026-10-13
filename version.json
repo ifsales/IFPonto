@@ -1,20 +1,23 @@
 {
     "produto":  "IfPonto",
-    "versao":  "0.6.6.1",
-    "data":  "2026-10-05",
-    "titulo":  "IfPonto 0.6.6.1",
-    "download":  "https://github.com/ifsales/IFPonto/releases/download/v0.6.6.1/IfPonto_Setup_0.6.6.1.exe",
-    "arquivo":  "IfPonto_Setup_0.6.6.1.exe",
-    "sha256":  "9426101ca908908574e780be26f073f4e351c39670ead8feea8af9ecc021d061",
+    "versao":  "0.6.7.0",
+    "data":  "2026-10-13",
+    "titulo":  "IfPonto 0.6.7.0",
+    "download":  "https://github.com/ifsales/IFPonto/releases/download/v0.6.7.0/IfPonto_Setup_0.6.7.0.exe",
+    "arquivo":  "IfPonto_Setup_0.6.7.0.exe",
+    "sha256":  "5564a85e2fee07acf4300e31f824442e34d7d9caf124de654677ad5a47fcee57",
     "portable":  {
-                     "arquivo":  "IfPonto_Portable_0.6.6.1.zip",
-                     "download":  "https://github.com/ifsales/IFPonto/releases/download/v0.6.6.1/IfPonto_Portable_0.6.6.1.zip",
-                     "sha256":  "e9a007037b924ec943e44c48fbd71ee5816bc11bd599e934d0d8cd66b8dfa399"
+                     "arquivo":  "IfPonto_Portable_0.6.7.0.zip",
+                     "download":  "https://github.com/ifsales/IFPonto/releases/download/v0.6.7.0/IfPonto_Portable_0.6.7.0.zip",
+                     "sha256":  "aefc66c5ab1869d57f2322ac624e895dd00c143b3374b953f747835317ffe900"
                  },
     "obrigatoria":  false,
     "descricao":  [
-                      "Atualizacao do IfPonto",
-                      "Desktop, API do Portal, frontend, migrations e runtimes Win32 (Firebird, WebView2, sqlite3)",
-                      "Sem banco, INI local, logs, uploads ou credenciais"
+                      "IfPonto Web reativado para tratamento, pré-fechamento rápido e desktop fecha sem banco",
+                      "IfPonto Web (operador) — https://\u003cservidor\u003e/operador/",
+                      "API (Portal e IfPonto Web)",
+                      "Pré-fechamento (Desktop e Web)",
+                      "IfPonto Desktop",
+                      "Banco"
                   ]
 }
